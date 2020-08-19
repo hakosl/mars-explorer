@@ -1,0 +1,24 @@
+# Blender MTL File: 'rover14.blend'
+# Material Count: 2
+
+newmtl Material.004
+Ns 96.078431
+Ka 0.500000 0.500000 0.500000
+Kd 0.88553 0.88553 0.88553
+Ks 0.813622 0.813622 0.813622
+Ke 0.026566 0.026566 0.026566
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd bodyTextureNew.png
+
+newmtl Metalic-material
+Ns 96.078431
+Ka 0.500000 0.500000 0.500000
+Kd 0.088553 0.088553 0.088553
+Ks 0.183622 0.183622 0.183622
+Ke 0.026566 0.026566 0.026566
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd bodyTextureNew.png
